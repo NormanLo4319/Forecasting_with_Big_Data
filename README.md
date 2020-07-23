@@ -16,7 +16,7 @@ In this repository, we use 2 different Python packages for running the multiple 
 Here is a list of methods in Python for linear regression:
 
 |  Package  |  Method  |  Regression  |  Resource  |
-|  :---:  |  :---:  |  :---:  |  :---:  |
+|  :---:  |  :---:  |  :---:  |  :---  |
 |  Statsmodels  |  Statsmodels.OLS()  |  Single/Multiple  |https://www.statsmodels.org/dev/index.html  |
 |  Scikit Learn  |  sklearn.linear_model.LinearRegression()  |  Single/Multiple  |  https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html  |
 |  Scipy  |  scipy.stats.linregress()  |  Single Only  |  https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html  |
