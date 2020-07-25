@@ -25,4 +25,4 @@ Here is a list of methods in Python for linear regression:
 |  Numpy  |  numpy.linalg.lstsq()  |  Single Only  |  https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.linalg.lstsq.html#numpy.linalg.lstsq  |
 
 
-
+Copyright © 2020 Norman Lo
